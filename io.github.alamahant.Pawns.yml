@@ -51,5 +51,5 @@ modules:
       # Main app source
       - type: git
         url: https://github.com/alamahant/Pawns.git
-        tag: v1.0.0
-        commit: cfe01ee6bb2ed0584db4b555c046b6659f3ef11d
+        tag: v1.0.1
+        commit: b43f1fa8d96acc0e25109529af6851c65e57aae8
